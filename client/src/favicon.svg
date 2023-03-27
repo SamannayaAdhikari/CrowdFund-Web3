@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="480" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m28.77,160.22l125.06,-115.69l176.87,0l125.06,115.69l0,163.62l-125.06,115.69l-176.87,0l-125.06,-115.69l0,-163.62z" fill="#000000" id="svg_1" stroke="#000000"/>
+  <path d="m33.82,161.62l122.14,-112.76l172.73,0l122.14,112.76l0,159.47l-122.14,112.76l-172.73,0l-122.14,-112.76l0,-159.47z" fill="#ffffff" id="svg_2" stroke="#000000"/>
+  <path d="m54.87,168.93l110.42,-101.63l156.16,0l110.42,101.63l0,143.73l-110.42,101.63l-156.16,0l-110.42,-101.63l0,-143.73z" fill="#FF0000" id="svg_3" stroke="#000000"/>
+  <text fill="#ffffff" font-family="Serif" font-size="124" font-weight="bold" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.933978 0 0 1 19.1094 0)" x="241.86" xml:space="preserve" y="276">STAD</text>
+ </g>
+</svg>

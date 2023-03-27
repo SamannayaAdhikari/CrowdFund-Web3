@@ -1,0 +1,2 @@
+thirdweb-explorer=https://thirdweb.com/goerli/0x12B20C3c21059965622f0aCAC567670006a08887/explorer
+goerli=https://goerlifaucet.com/
